@@ -6,7 +6,7 @@
 Μια πολύ καλή ιδέα είναι να πάρετε δυο SonFF και να δημιουργήσετε ενα δίκτυο esp now 
 Θα ήταν ενδιαφέρων να στέλνεται εντολές από το ένα στο άλλο και το αντίθετο .
 
-https://youtu.be/FwwflPz4vRA?si=p3C_dLMf4qu6sNo7
+Η σελιδα στο youtube: https://youtu.be/FwwflPz4vRA?si=p3C_dLMf4qu6sNo7
 
 ![image](https://github.com/bkotoulas/Hack---SonFF/assets/46839502/a4e722d0-0fba-449c-8917-228efb724ee0)
 
